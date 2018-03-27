@@ -11,7 +11,7 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost/api
-    username: root
+    username: userapi
     password: 12345678
     testOnBorrow: true
     removeAbandonedTimeout: 1800
